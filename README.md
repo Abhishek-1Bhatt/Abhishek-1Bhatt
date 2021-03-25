@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek-1Bhatt
-- 👀 I’m interested in Artificial Intelligence, Open-Source Software Development and I really shine at NLP
+- 👀 I’m interested in Artificial Intelligence, Privacy Preserving AI, Open-Source Software Development and I really shine at NLP
 - 🌱 I’m currently working at FOSSEE, IIT Bombay as a Sciab Toolbox Development Intern.
 - 💞️ I’m looking to collaborate on any AI related research (especially NLP)
 - 📫 Connect with me through: 
