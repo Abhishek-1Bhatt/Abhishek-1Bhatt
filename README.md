@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhishek-1Bhatt
-- 👀 I’m interested in High Performance Computing with Julia, Artificial Intelligence, Open-Source Software Development.
-- 💞️ I’m looking to collaborate on any HPC or Numerical Computing related projects.
+
 - 📫 Connect with me through: 
     - [Mail](abhishekbhatt730@gmail.com)
     - [Linkedin](https://www.linkedin.com/in/abhishek-bhatt-71a9b7120/)
