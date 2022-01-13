@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishek-1Bhatt
+- 👋 Hi, I’m Abhishek Bhatt
 
 - 📫 Connect with me through: 
     - [Mail](abhishekbhatt730@gmail.com)
