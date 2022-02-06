@@ -2,8 +2,6 @@
 
 - 📫 Connect with me through: 
     - [Mail](abhishekbhatt730@gmail.com)
-    - [Linkedin](https://www.linkedin.com/in/abhishek-bhatt-71a9b7120/)
-    - [Telegram](https://t.me/ba_2tripleO)
                               
 
 <!---
